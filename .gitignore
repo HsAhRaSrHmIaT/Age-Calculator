@@ -1,0 +1,8 @@
+*.manifest
+*.spec
+
+/venv
+/.idea
+/calender.svg
+
+/build
